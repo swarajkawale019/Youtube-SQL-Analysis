@@ -1,4 +1,4 @@
-# Youtube-SQL-Analysis  
+# YouTube Performance Metrics & Revenue Analysis using SQL
 
 ## 🚀 Executive Summary  
 This project analyzes a relational YouTube dataset to solve key business problems for content creators, marketers, and brands. The primary challenge addressed is the difficulty of tracking performance and identifying growth opportunities in a saturated market.  
