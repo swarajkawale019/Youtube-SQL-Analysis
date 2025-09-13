@@ -14,7 +14,7 @@ By writing efficient SQL queries in MySQL, this analysis identified:
 
 ---
 
-## 📈 Business Problem  
+## 📈 Problem  
 
 With millions of videos and channels on YouTube, understanding performance metrics like engagement, views, and revenue is a major challenge for creators, brands, and marketers.
 
